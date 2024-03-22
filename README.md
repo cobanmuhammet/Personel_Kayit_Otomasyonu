@@ -1,5 +1,5 @@
   ~Personel Kayıt Sistemi Database Yükleme~
---Dosyalar içinde bulunan script dosyasını açın.
+--Dosyalar içinde bulunan script.sql dosyasını açın.
 --İçindeki kodları kopyalayın.
 --Veri tabanı uygulamanızı açın önce PersonelVeriTabanı adında yeni bir database oluşturun.
 --New query deyin kopyaladığınız kodları yapıştırın ve execute yapın.
